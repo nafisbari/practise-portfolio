@@ -63,22 +63,21 @@ h1{
 }
 #full{
 
-    border-left: 10px solid;
-    background-image: linear-gradient(royalblue, navy);
+    border-left: 8px solid;
+    border-image: linear-gradient(royalblue, navy);
     border-image-slice: 1;
 }
+
 #baby{
-    border-left: 10px solid;
-    background-image: linear-gradient(red, salmon);
+    border-left: 8px solid;
+    border-image: linear-gradient(tomato, rgb(179, 34, 34));
     border-image-slice: 1;
 }
 .font{
     font-size: 30px;
     font-weight: 700;
 }
-.button-link{
-    
-
-    
-
+footer{
+    text-align: center;
 }
+    
