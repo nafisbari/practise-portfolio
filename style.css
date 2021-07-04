@@ -1,0 +1,66 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 60px;
+    font-weight: 700px;
+}
+
+.color{
+    color: rgb(193, 95, 59);
+}
+
+img{
+    width: 80%;
+}
+
+.half-width{
+    width: 50%;
+}
+
+.flex-display{
+    display: flex;
+}
+.button-link{
+    background-image: linear-gradient(royalblue, navy);
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 2%;
+    color: whitesmoke;
+
+}
+ .middle-part{
+     margin-top: 180px;
+     background-image: url(images/dream-bg.png);
+     background-repeat: no-repeat;
+     background-position: right;
+ }
+ .top-part{
+     background-repeat: no-repeat;
+     background-image: url(images/top-banner.png);
+ }
+ .bottom-part{
+     background-image: url(images/exp-bg.png);
+     background-repeat: no-repeat;
+ }
+.box{
+ width: 40%;
+ margin-right: 3%;
+ margin-left: 3%;
+ padding-right: 10px;
+ padding-left: 10px;
+ border-radius: 12px;
+ box-shadow: 10px 5px 50px grey;
+}
+#full{
+
+    border-left: 10px solid;
+    background-image: linear-gradient(royalblue, navy);
+    border-image-slice: 1;
+}
+#baby{
+    border-left: 10px solid;
+    background-image: linear-gradient(red, salmon);
+    border-image-slice: 1;
+}
